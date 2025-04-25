@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hi, Im Mustafa!
 🎓 Computer Science student at the University of Wollongong, Dubai  <br>🔍 Focused on AI/ML, Deep Learning, NLP, and Data-Driven Solutions  <br>📍 Based in Dubai, UAE  <br>📫 Reach me at: mmabohra@gmail.com | [LinkedIn](http://linkedin.com/in/mmabohra)
 
 
